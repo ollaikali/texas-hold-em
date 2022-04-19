@@ -1,0 +1,56 @@
+{"cards":
+    [
+        {
+        "name": "2",
+        "kicker": "2"
+        },
+        {
+        "name": "3",
+        "kicker": "3"
+        },
+        {
+        "name": "4",
+        "kicker": "4"
+        },
+        {
+        "name": "5",
+        "kicker": "5"
+        },
+        {
+        "name": "6",
+        "kicker": "6"
+        },
+        {
+        "name": "7",
+        "kicker": "7"
+        },
+        {
+        "name": "8",
+        "kicker": "8"
+        },
+        {
+        "name": "9",
+        "kicker": "9"
+        },
+        {
+        "name": "T",
+        "kicker": "10"
+        },
+        {
+        "name": "J",
+        "kicker": "Jack"
+        },
+        {
+        "name": "Q",
+        "kicker": "Queen"
+        },
+        {
+        "name": "K",
+        "kicker": "King"
+        },
+        {
+        "name": "A",
+        "kicker": "Ace"
+        }
+    ]
+}
