@@ -2,6 +2,7 @@
 ## Description
 Production level Texas Hold'em poker game done in Node.js
 ## Getting Started
+******Please make sure you have at least Node version v16.13.0***
 ### Installation & Start:
 * Clone this repository to any folder
 * Open that folder in your code editor and type **npm install** (or **npm i**) in your terminal
